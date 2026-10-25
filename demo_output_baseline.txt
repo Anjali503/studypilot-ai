@@ -1,0 +1,341 @@
+StudyPilot demo
+Start: 2026-10-25 (Sunday)
+Deadline: 2026-11-08 (Sunday)
+Days left: 14
+Planning window: 7 days from the start date.
+Temporary database: C:\Users\ANJALI\AppData\Local\Temp\tmpaafl41_j\demo.db
+Planner only. No Streamlit UI and no external API.
+
+==============================================================================
+Beginner — limited time
+Low mastery and a short week, including Sunday as a rest day. Foundations and guided practice come first.
+
+Ranked topics
+1. Dynamic Programming — priority 97.9 — mastery 10
+   Why prioritised: Priority 97.9/100 because mastery is low (10%), leaving a large gap and assessment importance is 5/5. Score = min(100, 100 x (0.55 x mastery gap 0.90 + 0.45 x importance 1.00) x urgency 1.04). 14 days left, urgency x1.04.
+2. Trees — priority 95.0 — mastery 15
+   Why prioritised: Priority 95.0/100 because mastery is low (15%), leaving a large gap and assessment importance is 5/5. Score = min(100, 100 x (0.55 x mastery gap 0.85 + 0.45 x importance 1.00) x urgency 1.04). 14 days left, urgency x1.04.
+3. Arrays & Strings — priority 83.6 — mastery 35
+   Why prioritised: Priority 83.6/100 because mastery is low (35%), leaving a large gap and assessment importance is 5/5. Score = min(100, 100 x (0.55 x mastery gap 0.65 + 0.45 x importance 1.00) x urgency 1.04). 14 days left, urgency x1.04.
+4. Recursion — priority 82.9 — mastery 20
+   Why prioritised: Priority 82.9/100 because mastery is low (20%), leaving a large gap and assessment importance is 4/5. Score = min(100, 100 x (0.55 x mastery gap 0.80 + 0.45 x importance 0.80) x urgency 1.04). 14 days left, urgency x1.04.
+5. Searching & Sorting — priority 80.0 — mastery 25
+   Why prioritised: Priority 80.0/100 because mastery is low (25%), leaving a large gap and assessment importance is 4/5. Score = min(100, 100 x (0.55 x mastery gap 0.75 + 0.45 x importance 0.80) x urgency 1.04). 14 days left, urgency x1.04.
+6. Linked Lists — priority 67.8 — mastery 30
+   Why prioritised: Priority 67.8/100 because mastery is low (30%), leaving a large gap and assessment importance is 3/5. Score = min(100, 100 x (0.55 x mastery gap 0.70 + 0.45 x importance 0.60) x urgency 1.04). 14 days left, urgency x1.04.
+
+Weekly plan
+date         topic                    activity   minutes
+2026-10-26   Dynamic Programming      Learn      60
+2026-10-27   Dynamic Programming      Learn      12
+2026-10-27   Dynamic Programming      Practice   45
+2026-10-28   Dynamic Programming      Practice   15
+2026-10-28   Dynamic Programming      Practice   12
+2026-10-29   Dynamic Programming      Revision   36
+2026-10-29   Trees                    Learn      24
+2026-10-30   Trees                    Learn      36
+2026-10-30   Trees                    Practice   24
+2026-10-31   Trees                    Practice   36
+2026-10-31   Trees                    Revision   30
+2026-10-31   Arrays & Strings         Learn      24
+Sessions: Learn 5, Practice 5, Revision 2
+
+Availability (minutes)
+date         available  scheduled  result
+2026-10-25           0          0  PASS
+2026-10-26          60         60  PASS
+2026-10-27          60         57  PASS
+2026-10-28          30         27  PASS
+2026-10-29          60         60  PASS
+2026-10-30          60         60  PASS
+2026-10-31          90         90  PASS
+overall: PASS
+
+Progress update
+Raised Dynamic Programming mastery from 10 to 50.
+Marked complete: 2026-10-26 Dynamic Programming — Learn, 60 minutes.
+Marked complete: 2026-10-27 Dynamic Programming — Learn, 12 minutes.
+Regenerated ranking
+1. Trees — priority 95.0 — mastery 15
+   Why prioritised: Priority 95.0/100 because mastery is low (15%), leaving a large gap and assessment importance is 5/5. Score = min(100, 100 x (0.55 x mastery gap 0.85 + 0.45 x importance 1.00) x urgency 1.04). 14 days left, urgency x1.04.
+2. Arrays & Strings — priority 83.6 — mastery 35
+   Why prioritised: Priority 83.6/100 because mastery is low (35%), leaving a large gap and assessment importance is 5/5. Score = min(100, 100 x (0.55 x mastery gap 0.65 + 0.45 x importance 1.00) x urgency 1.04). 14 days left, urgency x1.04.
+3. Recursion — priority 82.9 — mastery 20
+   Why prioritised: Priority 82.9/100 because mastery is low (20%), leaving a large gap and assessment importance is 4/5. Score = min(100, 100 x (0.55 x mastery gap 0.80 + 0.45 x importance 0.80) x urgency 1.04). 14 days left, urgency x1.04.
+4. Searching & Sorting — priority 80.0 — mastery 25
+   Why prioritised: Priority 80.0/100 because mastery is low (25%), leaving a large gap and assessment importance is 4/5. Score = min(100, 100 x (0.55 x mastery gap 0.75 + 0.45 x importance 0.80) x urgency 1.04). 14 days left, urgency x1.04.
+5. Dynamic Programming — priority 75.1 — mastery 50
+   Why prioritised: Priority 75.1/100 because mastery is still developing (50%) and assessment importance is 5/5. Score = min(100, 100 x (0.55 x mastery gap 0.50 + 0.45 x importance 1.00) x urgency 1.04). 14 days left, urgency x1.04.
+6. Linked Lists — priority 67.8 — mastery 30
+   Why prioritised: Priority 67.8/100 because mastery is low (30%), leaving a large gap and assessment importance is 3/5. Score = min(100, 100 x (0.55 x mastery gap 0.70 + 0.45 x importance 0.60) x urgency 1.04). 14 days left, urgency x1.04.
+
+What changed
+Trees moved from #2 to #1 (priority 95.0 to 95.0, mastery 15 to 15).
+Arrays & Strings moved from #3 to #2 (priority 83.6 to 83.6, mastery 35 to 35).
+Recursion moved from #4 to #3 (priority 82.9 to 82.9, mastery 20 to 20).
+Searching & Sorting moved from #5 to #4 (priority 80.0 to 80.0, mastery 25 to 25).
+Dynamic Programming moved from #1 to #5 (priority 97.9 to 75.1, mastery 10 to 50).
+Linked Lists stayed at #6.
+
+Weekly plan after regeneration
+date         topic                    activity   minutes
+2026-10-26   Dynamic Programming      Learn      60
+2026-10-27   Dynamic Programming      Learn      12
+2026-10-27   Trees                    Learn      45
+2026-10-28   Trees                    Learn      15
+2026-10-28   Trees                    Practice   15
+2026-10-29   Trees                    Practice   45
+2026-10-29   Trees                    Revision   15
+2026-10-30   Trees                    Revision   15
+2026-10-30   Arrays & Strings         Learn      33
+2026-10-30   Dynamic Programming      Practice   12
+2026-10-31   Arrays & Strings         Learn      15
+2026-10-31   Arrays & Strings         Practice   48
+2026-10-31   Arrays & Strings         Revision   24
+Sessions: Learn 6, Practice 4, Revision 3
+
+Availability after regeneration (minutes)
+date         available  scheduled  result
+2026-10-25           0          0  PASS
+2026-10-26          60         60  PASS
+2026-10-27          60         57  PASS
+2026-10-28          30         30  PASS
+2026-10-29          60         60  PASS
+2026-10-30          60         60  PASS
+2026-10-31          90         87  PASS
+overall: PASS
+
+==============================================================================
+Intermediate — balanced
+Comfortable with the fundamentals and a balanced week. Practice is aimed at the topics that are still uneven.
+
+Ranked topics
+1. Dynamic Programming — priority 83.6 — mastery 35
+   Why prioritised: Priority 83.6/100 because mastery is low (35%), leaving a large gap and assessment importance is 5/5. Score = min(100, 100 x (0.55 x mastery gap 0.65 + 0.45 x importance 1.00) x urgency 1.04). 14 days left, urgency x1.04.
+2. Trees — priority 80.8 — mastery 40
+   Why prioritised: Priority 80.8/100 because mastery is low (40%), leaving a large gap and assessment importance is 5/5. Score = min(100, 100 x (0.55 x mastery gap 0.60 + 0.45 x importance 1.00) x urgency 1.04). 14 days left, urgency x1.04.
+3. Searching & Sorting — priority 72.2 — mastery 55
+   Why prioritised: Priority 72.2/100 because mastery is still developing (55%) and assessment importance is 5/5. Score = min(100, 100 x (0.55 x mastery gap 0.45 + 0.45 x importance 1.00) x urgency 1.04). 14 days left, urgency x1.04.
+4. Recursion — priority 68.6 — mastery 45
+   Why prioritised: Priority 68.6/100 because mastery is low (45%), leaving a large gap and assessment importance is 4/5. Score = min(100, 100 x (0.55 x mastery gap 0.55 + 0.45 x importance 0.80) x urgency 1.04). 14 days left, urgency x1.04.
+5. Arrays & Strings — priority 54.4 — mastery 70
+   Why prioritised: Priority 54.4/100 because mastery is still developing (70%) and assessment importance is 4/5. Score = min(100, 100 x (0.55 x mastery gap 0.30 + 0.45 x importance 0.80) x urgency 1.04). 14 days left, urgency x1.04.
+6. Linked Lists — priority 50.8 — mastery 60
+   Why prioritised: Priority 50.8/100 because mastery is still developing (60%) and assessment importance is 3/5. Score = min(100, 100 x (0.55 x mastery gap 0.40 + 0.45 x importance 0.60) x urgency 1.04). 14 days left, urgency x1.04.
+
+Weekly plan
+date         topic                    activity   minutes
+2026-10-25   Dynamic Programming      Learn      60
+2026-10-25   Dynamic Programming      Learn      12
+2026-10-25   Dynamic Programming      Practice   18
+2026-10-26   Dynamic Programming      Practice   42
+2026-10-26   Dynamic Programming      Practice   12
+2026-10-26   Dynamic Programming      Revision   36
+2026-10-26   Trees                    Learn      30
+2026-10-27   Trees                    Learn      30
+2026-10-27   Trees                    Practice   60
+2026-10-27   Trees                    Revision   30
+2026-10-28   Searching & Sorting      Learn      48
+2026-10-28   Searching & Sorting      Practice   48
+2026-10-28   Searching & Sorting      Revision   24
+2026-10-29   Recursion                Learn      48
+2026-10-29   Recursion                Practice   48
+2026-10-29   Recursion                Revision   24
+2026-10-30   Arrays & Strings         Learn      36
+2026-10-30   Arrays & Strings         Practice   36
+2026-10-30   Arrays & Strings         Revision   18
+2026-10-30   Linked Lists             Learn      21
+2026-10-31   Linked Lists             Learn      15
+2026-10-31   Linked Lists             Practice   36
+2026-10-31   Linked Lists             Revision   18
+Sessions: Learn 9, Practice 8, Revision 6
+
+Availability (minutes)
+date         available  scheduled  result
+2026-10-25          90         90  PASS
+2026-10-26         120        120  PASS
+2026-10-27         120        120  PASS
+2026-10-28         120        120  PASS
+2026-10-29         120        120  PASS
+2026-10-30         120        111  PASS
+2026-10-31         150         69  PASS
+overall: PASS
+
+Progress update
+Raised Dynamic Programming mastery from 35 to 75.
+Marked complete: 2026-10-25 Dynamic Programming — Learn, 60 minutes.
+Marked complete: 2026-10-25 Dynamic Programming — Learn, 12 minutes.
+Regenerated ranking
+1. Trees — priority 80.8 — mastery 40
+   Why prioritised: Priority 80.8/100 because mastery is low (40%), leaving a large gap and assessment importance is 5/5. Score = min(100, 100 x (0.55 x mastery gap 0.60 + 0.45 x importance 1.00) x urgency 1.04). 14 days left, urgency x1.04.
+2. Searching & Sorting — priority 72.2 — mastery 55
+   Why prioritised: Priority 72.2/100 because mastery is still developing (55%) and assessment importance is 5/5. Score = min(100, 100 x (0.55 x mastery gap 0.45 + 0.45 x importance 1.00) x urgency 1.04). 14 days left, urgency x1.04.
+3. Recursion — priority 68.6 — mastery 45
+   Why prioritised: Priority 68.6/100 because mastery is low (45%), leaving a large gap and assessment importance is 4/5. Score = min(100, 100 x (0.55 x mastery gap 0.55 + 0.45 x importance 0.80) x urgency 1.04). 14 days left, urgency x1.04.
+4. Dynamic Programming — priority 60.8 — mastery 75
+   Why prioritised: Priority 60.8/100 because mastery is relatively strong (75%) and assessment importance is 5/5. Score = min(100, 100 x (0.55 x mastery gap 0.25 + 0.45 x importance 1.00) x urgency 1.04). 14 days left, urgency x1.04.
+5. Arrays & Strings — priority 54.4 — mastery 70
+   Why prioritised: Priority 54.4/100 because mastery is still developing (70%) and assessment importance is 4/5. Score = min(100, 100 x (0.55 x mastery gap 0.30 + 0.45 x importance 0.80) x urgency 1.04). 14 days left, urgency x1.04.
+6. Linked Lists — priority 50.8 — mastery 60
+   Why prioritised: Priority 50.8/100 because mastery is still developing (60%) and assessment importance is 3/5. Score = min(100, 100 x (0.55 x mastery gap 0.40 + 0.45 x importance 0.60) x urgency 1.04). 14 days left, urgency x1.04.
+
+What changed
+Trees moved from #2 to #1 (priority 80.8 to 80.8, mastery 40 to 40).
+Searching & Sorting moved from #3 to #2 (priority 72.2 to 72.2, mastery 55 to 55).
+Recursion moved from #4 to #3 (priority 68.6 to 68.6, mastery 45 to 45).
+Dynamic Programming moved from #1 to #4 (priority 83.6 to 60.8, mastery 35 to 75).
+Arrays & Strings stayed at #5.
+Linked Lists stayed at #6.
+
+Weekly plan after regeneration
+date         topic                    activity   minutes
+2026-10-25   Dynamic Programming      Learn      60
+2026-10-25   Dynamic Programming      Learn      12
+2026-10-25   Trees                    Learn      18
+2026-10-26   Trees                    Learn      42
+2026-10-26   Trees                    Practice   60
+2026-10-26   Trees                    Revision   15
+2026-10-27   Trees                    Revision   15
+2026-10-27   Searching & Sorting      Learn      48
+2026-10-27   Searching & Sorting      Practice   48
+2026-10-28   Searching & Sorting      Revision   24
+2026-10-28   Recursion                Learn      48
+2026-10-28   Recursion                Practice   48
+2026-10-29   Recursion                Revision   24
+2026-10-29   Dynamic Programming      Practice   60
+2026-10-29   Dynamic Programming      Practice   12
+2026-10-29   Dynamic Programming      Revision   21
+2026-10-30   Dynamic Programming      Revision   15
+2026-10-30   Arrays & Strings         Learn      36
+2026-10-30   Arrays & Strings         Practice   36
+2026-10-30   Arrays & Strings         Revision   18
+2026-10-30   Linked Lists             Learn      15
+2026-10-31   Linked Lists             Learn      21
+2026-10-31   Linked Lists             Practice   36
+2026-10-31   Linked Lists             Revision   18
+Sessions: Learn 9, Practice 7, Revision 8
+
+Availability after regeneration (minutes)
+date         available  scheduled  result
+2026-10-25          90         90  PASS
+2026-10-26         120        117  PASS
+2026-10-27         120        111  PASS
+2026-10-28         120        120  PASS
+2026-10-29         120        117  PASS
+2026-10-30         120        120  PASS
+2026-10-31         150         75  PASS
+overall: PASS
+
+==============================================================================
+Advanced — targeted revision
+High mastery, with time reserved for exam-style problems. Dynamic programming and trees still need targeted practice.
+
+Ranked topics
+1. Dynamic Programming — priority 63.7 — mastery 70
+   Why prioritised: Priority 63.7/100 because mastery is still developing (70%) and assessment importance is 5/5. Score = min(100, 100 x (0.55 x mastery gap 0.30 + 0.45 x importance 1.00) x urgency 1.04). 14 days left, urgency x1.04.
+2. Trees — priority 58.0 — mastery 80
+   Why prioritised: Priority 58.0/100 because mastery is relatively strong (80%) and assessment importance is 5/5. Score = min(100, 100 x (0.55 x mastery gap 0.20 + 0.45 x importance 1.00) x urgency 1.04). 14 days left, urgency x1.04.
+3. Searching & Sorting — priority 55.2 — mastery 85
+   Why prioritised: Priority 55.2/100 because mastery is relatively strong (85%) and assessment importance is 5/5. Score = min(100, 100 x (0.55 x mastery gap 0.15 + 0.45 x importance 1.00) x urgency 1.04). 14 days left, urgency x1.04.
+4. Recursion — priority 48.7 — mastery 80
+   Why prioritised: Priority 48.7/100 because mastery is relatively strong (80%) and assessment importance is 4/5. Score = min(100, 100 x (0.55 x mastery gap 0.20 + 0.45 x importance 0.80) x urgency 1.04). 14 days left, urgency x1.04.
+5. Arrays & Strings — priority 40.1 — mastery 95
+   Why prioritised: Priority 40.1/100 because mastery is relatively strong (95%) and assessment importance is 4/5. Score = min(100, 100 x (0.55 x mastery gap 0.05 + 0.45 x importance 0.80) x urgency 1.04). 14 days left, urgency x1.04.
+6. Linked Lists — priority 33.7 — mastery 90
+   Why prioritised: Priority 33.7/100 because mastery is relatively strong (90%) and assessment importance is 3/5. Score = min(100, 100 x (0.55 x mastery gap 0.10 + 0.45 x importance 0.60) x urgency 1.04). 14 days left, urgency x1.04.
+
+Weekly plan
+date         topic                    activity   minutes
+2026-10-25   Dynamic Programming      Learn      60
+2026-10-25   Dynamic Programming      Practice   60
+2026-10-26   Dynamic Programming      Revision   30
+2026-10-26   Trees                    Learn      48
+2026-10-26   Trees                    Practice   48
+2026-10-26   Trees                    Revision   24
+2026-10-26   Searching & Sorting      Learn      21
+2026-10-27   Searching & Sorting      Learn      15
+2026-10-27   Searching & Sorting      Practice   36
+2026-10-27   Searching & Sorting      Revision   18
+2026-10-27   Recursion                Learn      36
+2026-10-27   Recursion                Practice   36
+2026-10-27   Recursion                Revision   18
+2026-10-27   Arrays & Strings         Revision   12
+2026-10-28   Arrays & Strings         Learn      24
+2026-10-28   Arrays & Strings         Practice   24
+2026-10-28   Linked Lists             Learn      24
+2026-10-28   Linked Lists             Practice   24
+2026-10-28   Linked Lists             Revision   12
+Sessions: Learn 7, Practice 6, Revision 6
+
+Availability (minutes)
+date         available  scheduled  result
+2026-10-25         120        120  PASS
+2026-10-26         180        171  PASS
+2026-10-27         180        171  PASS
+2026-10-28         150        108  PASS
+2026-10-29         180          0  PASS
+2026-10-30         180          0  PASS
+2026-10-31         210          0  PASS
+overall: PASS
+
+Progress update
+Raised Dynamic Programming mastery from 70 to 100.
+Marked complete: 2026-10-25 Dynamic Programming — Learn, 60 minutes.
+Marked complete: 2026-10-25 Dynamic Programming — Practice, 60 minutes.
+Regenerated ranking
+1. Trees — priority 58.0 — mastery 80
+   Why prioritised: Priority 58.0/100 because mastery is relatively strong (80%) and assessment importance is 5/5. Score = min(100, 100 x (0.55 x mastery gap 0.20 + 0.45 x importance 1.00) x urgency 1.04). 14 days left, urgency x1.04.
+2. Searching & Sorting — priority 55.2 — mastery 85
+   Why prioritised: Priority 55.2/100 because mastery is relatively strong (85%) and assessment importance is 5/5. Score = min(100, 100 x (0.55 x mastery gap 0.15 + 0.45 x importance 1.00) x urgency 1.04). 14 days left, urgency x1.04.
+3. Recursion — priority 48.7 — mastery 80
+   Why prioritised: Priority 48.7/100 because mastery is relatively strong (80%) and assessment importance is 4/5. Score = min(100, 100 x (0.55 x mastery gap 0.20 + 0.45 x importance 0.80) x urgency 1.04). 14 days left, urgency x1.04.
+4. Dynamic Programming — priority 46.6 — mastery 100
+   Why prioritised: Priority 46.6/100 because mastery is relatively strong (100%) and assessment importance is 5/5. Score = min(100, 100 x (0.55 x mastery gap 0.00 + 0.45 x importance 1.00) x urgency 1.04). 14 days left, urgency x1.04.
+5. Arrays & Strings — priority 40.1 — mastery 95
+   Why prioritised: Priority 40.1/100 because mastery is relatively strong (95%) and assessment importance is 4/5. Score = min(100, 100 x (0.55 x mastery gap 0.05 + 0.45 x importance 0.80) x urgency 1.04). 14 days left, urgency x1.04.
+6. Linked Lists — priority 33.7 — mastery 90
+   Why prioritised: Priority 33.7/100 because mastery is relatively strong (90%) and assessment importance is 3/5. Score = min(100, 100 x (0.55 x mastery gap 0.10 + 0.45 x importance 0.60) x urgency 1.04). 14 days left, urgency x1.04.
+
+What changed
+Trees moved from #2 to #1 (priority 58.0 to 58.0, mastery 80 to 80).
+Searching & Sorting moved from #3 to #2 (priority 55.2 to 55.2, mastery 85 to 85).
+Recursion moved from #4 to #3 (priority 48.7 to 48.7, mastery 80 to 80).
+Dynamic Programming moved from #1 to #4 (priority 63.7 to 46.6, mastery 70 to 100).
+Arrays & Strings stayed at #5.
+Linked Lists stayed at #6.
+
+Weekly plan after regeneration
+date         topic                    activity   minutes
+2026-10-25   Dynamic Programming      Learn      60
+2026-10-25   Dynamic Programming      Practice   60
+2026-10-26   Trees                    Learn      48
+2026-10-26   Trees                    Practice   48
+2026-10-26   Trees                    Revision   24
+2026-10-26   Searching & Sorting      Learn      36
+2026-10-26   Searching & Sorting      Practice   21
+2026-10-27   Searching & Sorting      Practice   15
+2026-10-27   Searching & Sorting      Revision   18
+2026-10-27   Recursion                Learn      36
+2026-10-27   Recursion                Practice   36
+2026-10-27   Recursion                Revision   18
+2026-10-27   Dynamic Programming      Revision   30
+2026-10-27   Arrays & Strings         Learn      24
+2026-10-28   Arrays & Strings         Practice   24
+2026-10-28   Arrays & Strings         Revision   12
+2026-10-28   Linked Lists             Learn      24
+2026-10-28   Linked Lists             Practice   24
+2026-10-28   Linked Lists             Revision   12
+Sessions: Learn 6, Practice 7, Revision 6
+
+Availability after regeneration (minutes)
+date         available  scheduled  result
+2026-10-25         120        120  PASS
+2026-10-26         180        177  PASS
+2026-10-27         180        177  PASS
+2026-10-28         150         96  PASS
+2026-10-29         180          0  PASS
+2026-10-30         180          0  PASS
+2026-10-31         210          0  PASS
+overall: PASS
+
+ALL CHECKS PASSED
